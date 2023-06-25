@@ -1,0 +1,85 @@
+#box{
+    
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        border-style:solid;
+        border:2px;
+     
+   }
+   #item1{
+       display:flex;
+       flex-direction:column;
+       align-items:flex-end;
+       
+   }
+   
+   #input{
+       
+       border-radius:10px;
+       width:250px;
+       height:45px;
+
+   }
+   .a1:hover{
+       
+       width:350px;
+       height:70px;
+       border-radius:10px;
+       background-color:#b3ffb3;
+   
+       
+   }
+   
+    .a2:hover{
+       
+       width:350px;
+       height:70px;
+       border-radius:10px;
+       background-color:#b3ffb3;
+   
+       
+   }
+   
+    .a3:hover{
+       
+       width:350px;
+       height:70px;
+       border-radius:10px;
+       background-color:#b3ffb3;
+   
+       
+   }
+   .login{
+    
+       background-color: #0099ff;
+       border-bottom-color:#FF6871FF;
+       font-family:Serif ;
+   
+   }
+   
+    .login:hover{
+       
+      
+       border-radius:10px;
+       background-color:#1a53ff;
+   
+       
+   }
+   #title{
+    
+       display:flex;
+       flex-direction:column;
+       align-items:center;
+       color:#1aff1a;
+       font-size:100%
+              
+   }
+   #small{
+     
+         font-size:10px
+          
+   }
+    
+
+      
